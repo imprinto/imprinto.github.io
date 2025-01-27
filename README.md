@@ -1,14 +1,17 @@
-# RAMPA: Robotic Augmented Reality for Machine Programming by Demonstration
+# Imprinto: Enhancing Infrared Inkjet Watermarking for Human and Machine Perception
 
-This is the repository that contains the source code for the [RAMPA website](https://rampa-robot.github.io/).
+This is the repository that contains the source code for the [Imprinto website](https://imprinto.github.io/).
 
-If you find RAMPA useful for your work, please cite:
+If you find Imprinto useful for your work, please cite:
 ```
-@misc{dogangun2024rampa,
-  title={RAMPA: Robotic Augmented Reality for Machine Programming and Automation},
-  author={Dogangun, Fatih and Bahar, Serdar and Yildirim, Yigit and Temir, Bora Toprak and Ugur, Emre and Dogan, Mustafa Doga},
-  howpublished={arXiv:2410.13412, 2024}
-}
+@inproceedings{feickImprinto2025,  
+  title={Imprinto: Enhancing Infrared Inkjet Watermarking for Human and Machine Perception},  
+  author={Feick, Martin and Tang, Xuxin and Garcia-Martin, Raul and Luchianov, Alexandru and Huang, Roderick Wei Xiao and Xiao, Chang and Siu, Alexa and Dogan, Mustafa Doga},  
+  booktitle={Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25)},  
+  year={2025},  
+  publisher={ACM},  
+  address={New York, NY, USA}
+}  
 ```
 
 # Website License
